@@ -20,7 +20,7 @@ sections:
           - pb-36
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
