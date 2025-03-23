@@ -3,7 +3,7 @@ type: PageLayout
 title: test
 sections:
   - type: MediaGallerySection
-    title: Gallery
+    title: Gallerie
     subtitle: Randomm Bilder
     images:
       - type: ImageBlock
