@@ -21,6 +21,7 @@ sections:
           - pr-4
         textAlign: center
         borderColor: border-(--theme-primary)
+        borderRadius: x-large
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
