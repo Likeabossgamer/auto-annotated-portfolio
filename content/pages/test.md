@@ -61,7 +61,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
-        borderColor: border-(--theme-secondary)
+        borderColor: border-(--theme-primary)
         borderRadius: x-large
         borderWidth: 0
 addTitleSuffix: true
