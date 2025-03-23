@@ -48,7 +48,7 @@ sections:
     subtitle: The section subtitle
     text: >
       ttettttetttettttettettttetttettttttettttetttettttettettttetttettttttettttttettttetttettttettettttetttett
-    colors: colors-c
+    colors: colors-b
     variant: variant-a
     elementId: ''
     styles:
