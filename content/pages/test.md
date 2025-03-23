@@ -62,7 +62,7 @@ sections:
           - pr-4
         textAlign: center
         borderColor: border-(--theme-dark)
-        borderRadius: x-small
+        borderRadius: xx-small
         borderWidth: 0
 addTitleSuffix: true
 colors: colors-a
