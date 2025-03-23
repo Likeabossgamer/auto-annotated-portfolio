@@ -63,6 +63,7 @@ sections:
         textAlign: center
         borderColor: border-(--theme-secondary)
         borderRadius: x-large
+        borderWidth: 1
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
