@@ -65,7 +65,7 @@ sections:
         borderRadius: none
         borderWidth: 0
 addTitleSuffix: true
-colors: colors-b
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
