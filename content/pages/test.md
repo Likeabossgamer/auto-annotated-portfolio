@@ -4,7 +4,7 @@ title: test
 sections:
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: Randomm Bilder
     images:
       - type: ImageBlock
         url: /images/1000083937.png
