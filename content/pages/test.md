@@ -2,26 +2,6 @@
 type: PageLayout
 title: test
 sections:
-  - type: TextSection
-    title: This in an empty page
-    subtitle: The section subtitle
-    text: >
-      ttettttetttettttettettttetttettttttettttetttettttettettttetttettttttettttttettttetttettttettettttetttett
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-12
-          - pb-36
-          - pl-4
-          - pr-4
-        textAlign: center
-        borderColor: border-(--theme-primary)
-        borderRadius: x-large
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -63,6 +43,26 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+  - type: TextSection
+    title: This in an empty page
+    subtitle: The section subtitle
+    text: >
+      ttettttetttettttettettttetttettttttettttetttettttettettttetttettttttettttttettttetttettttettettttetttett
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: center
+        borderColor: border-(--theme-primary)
+        borderRadius: x-large
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
